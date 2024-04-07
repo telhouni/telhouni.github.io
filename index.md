@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dynamic Sales Dashboard Creation in Excel for Retail Insights](/project_page1)
+<br>
+<img src="images/sales_data.jpg?raw=true" width="500"/>
 
 ---
 
-### Category Name 2
+[Synthesising Privacy: Generating Time-Series Data for Mental Health Monitoring with TimeGAN](/project_page2)
+<br>
+<img src="images/timegan.png?raw=true" width="500"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+[Mapping Health: Interactive Analysis of Flu Vaccination Trends](/project_page3)
+<br>
+<img src="images/flu.jpg?raw=true" width="500"/>
 
 ---
 
