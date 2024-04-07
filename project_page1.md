@@ -1,5 +1,5 @@
-# Dynamic Sales Performance Dashboard in Excel
-
+<p align="justify">
+# [Dynamic Sales Dashboard Creation in Excel for Retail Insight](https://docs.google.com/spreadsheets/d/1EZkgvIwF-vWaWHkQN1rGzuRWkaEFTIVh/edit?usp=sharing&ouid=115673217780982686833&rtpof=true&sd=true)
 ## Project Overview
 This project demonstrates the creation of a comprehensive Excel dashboard for analysing sales performance, based on a client engagement. The dashboard, recreated here with mock data, originated from a need to provide in-depth insights into sales operations over the 2016 to 2018 period. A key part of the project involved using SQL for data extraction and preparation, showcasing my ability to integrate data analysis tools for insightful visualisations.
 
@@ -31,6 +31,7 @@ This project illustrates my proficiency with both SQL for data management and Ex
 
 #### [Download the Dynamic Sales Performance Dashboard in Excel](https://docs.google.com/spreadsheets/d/1EZkgvIwF-vWaWHkQN1rGzuRWkaEFTIVh/edit?usp=sharing&ouid=115673217780982686833&rtpof=true&sd=true)
 ---
+</p>
 *This project is based on mock data and intended for portfolio presentation only.*
 
 
