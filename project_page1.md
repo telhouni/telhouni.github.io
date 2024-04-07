@@ -9,7 +9,7 @@ This project demonstrates the creation of a comprehensive Excel dashboard for an
 ### Key Features:
 - **Data Extraction with SQL**: Employed SQL scripts to retrieve and prepare data from the client's relational database, ensuring accurate and relevant data feeds into the Excel dashboard.
 - **Interactive Dashboard**: Utilises Excel to dynamically explore and visualise sales data across multiple dimensions, including temporal trends, geographic analysis, store performances, and product category insights.
-- **Customizable Views**: Features slicers for filtering data by year, store name, and state, facilitating detailed analysis of specific aspects of the sales data.
+- **Customisable Views**: Features slicers for filtering data by year, store name, and state, facilitating detailed analysis of specific aspects of the sales data.
 - **Comprehensive Analysis**: Offers trend visualisation, revenue breakdowns by various categories, and rankings of top customers and sales representatives.
 
 ### Business Questions Addressed:
@@ -34,6 +34,3 @@ This project illustrates my proficiency with both SQL for data management and Ex
 
 </p>
 *This project is based on mock data and intended for portfolio presentation only.*
-
-
-
