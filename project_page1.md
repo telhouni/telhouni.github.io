@@ -30,8 +30,8 @@ This project demonstrates the creation of a comprehensive Excel dashboard for an
 ## Conclusion
 This project illustrates my proficiency with both SQL for data management and Excel for data analysis and visualisation. It underscores the capability to leverage these tools in tandem to deliver actionable business insights and support strategic decision-making.
 
-#### [Download the Dynamic Sales Performance Dashboard in Excel](https://docs.google.com/spreadsheets/d/1EZkgvIwF-vWaWHkQN1rGzuRWkaEFTIVh/edit?usp=sharing&ouid=115673217780982686833&rtpof=true&sd=true)
 ---
+
 </p>
 *This project is based on mock data and intended for portfolio presentation only.*
 
