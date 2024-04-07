@@ -1,5 +1,3 @@
-<p align="justify">
-
 ### [TimeGAN for Mental Health Monitoring Using CrossCheck Data](https://github.com/telhouni/TimeGAN)
 
 **Objective**: The project aimed to apply Time-series Generative Adversarial Networks (TimeGAN) to generate synthetic time-series data based on the CrossCheck dataset for monitoring severe mental illness symptoms. This approach sought to evaluate the effectiveness of synthetic data generation in mental health research, addressing privacy concerns while ensuring data richness and utility.
@@ -24,5 +22,3 @@
 *   Comparative analyses indicated that training on synthetic data and testing on real data yielded promising results, underscoring the synthetic data's utility for research and potential applications in privacy-sensitive contexts.
 
 **Implications**: This project showcases the potential of GANs in generating high-fidelity, utility-rich synthetic datasets for sensitive applications such as mental health monitoring. By addressing privacy concerns without compromising data utility, this approach opens new avenues for mental health research and the broader field of medical data analysis, where data accessibility is often limited by ethical and privacy constraints.
-
-</p>
