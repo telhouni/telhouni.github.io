@@ -3,6 +3,7 @@
 ---
 
 ### [Synthesising Privacy: Generating Time-Series Data for Mental Health Monitoring with TimeGAN](/project_page2)
+
 <br>
 **Description**: This project applied Time-series Generative Adversarial Networks (TimeGAN) to the CrossCheck dataset for generating synthetic time-series data, aiming to monitor severe mental illness symptoms while addressing privacy concerns, demonstrating that synthetic data can closely mimic real datasets in statistical properties and temporal dynamics.
 <br>
@@ -12,6 +13,7 @@
 ---
 
 ### [Dynamic Sales Dashboard Creation in Excel for Retail Insights](/project_page1)
+
 <br>
 **Description**: This project showcases the creation of an Excel dashboard for analysing sales performance, leveraging SQL for data preparation and offering in-depth insights through dynamic visualisations and comprehensive analysis.
 <br>
@@ -21,6 +23,7 @@
 ---
 
 ### [Mapping Health: Interactive Analysis of Flu Vaccination Trends](/project_page3)
+
 <br>
 **Description**: This project recreates a public health dashboard to analyze and visualize flu shot distribution in 2022 by age, race, and county, leveraging SQL for data handling and Tableau for dynamic visualizations, and employing PostgreSQL and pgAdmin for data management, highlighting the effective use of technical skills to transform complex datasets into actionable public health insights.
 <br>
