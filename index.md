@@ -4,6 +4,8 @@
 
 [Dynamic Sales Dashboard Creation in Excel for Retail Insights](/project_page1)
 <br>
+This project showcases the creation of an Excel dashboard for analysing sales performance, leveraging SQL for data preparation and offering in-depth insights through dynamic visualisations and comprehensive analysis.
+**Tools**: **SQL** was used for data extraction and preparation. **Excel*** was utilized for creating pivot tables, dynamic dashboards, and data visualisation.
 <img src="images/sales_data.jpg?raw=true" width="500"/>
 
 ---
