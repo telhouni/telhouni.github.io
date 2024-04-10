@@ -51,7 +51,7 @@ This project recreates a public health dashboard to analyse and visualise flu sh
 - **PostgreSQL & pgAdmin**: For database management and administration.
 - **Spreadsheet Software**: For initial data analysis and manipulation.
 - **ODBC**: For database connectivity and integration with Tableau.
-- 
+
 <img src="images/flu.jpg?raw=true" width="500"/>
 
 ---
