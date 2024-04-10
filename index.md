@@ -4,10 +4,20 @@
 
 ### [Synthesising Privacy: Generating Time-Series Data for Mental Health Monitoring with TimeGAN](/project_page2)
 
-**Description**: This project applied Time-series Generative Adversarial Networks (TimeGAN) to the CrossCheck dataset for generating synthetic time-series data, aiming to monitor severe mental illness symptoms while addressing privacy concerns, demonstrating that synthetic data can closely mimic real datasets in statistical properties and temporal dynamics.
-<br>
-**Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Python standard libraries (Path from pathlib, tqdm).
-<img src="images/timegan.png?raw=true" width="500"/>
+#### Description
+
+This project applied Time-series Generative Adversarial Networks (TimeGAN) to the CrossCheck dataset for generating synthetic time-series data, aiming to monitor severe mental illness symptoms while addressing privacy concerns. It demonstrates that synthetic data can closely mimic real datasets in statistical properties and temporal dynamics.
+
+#### Tools Used
+
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computing with Python.
+- **Scikit-learn**: For machine learning and data preprocessing.
+- **TensorFlow**: For building and training the TimeGAN model.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Python Standard Libraries**:
+  - `Path` from pathlib: For filesystem path operations.
+  - `tqdm`: For progress bars during data processing and model training.
 
 ---
 
