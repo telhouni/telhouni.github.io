@@ -19,6 +19,8 @@ This project applied Time-series Generative Adversarial Networks (TimeGAN) to th
   - `Path` from pathlib: For filesystem path operations.
   - `tqdm`: For progress bars during data processing and model training.
 
+<img src="images/timegan.png?raw=true" width="500"/>
+
 ---
 
 ### [Dynamic Sales Dashboard Creation in Excel for Retail Insights](/project_page1)
