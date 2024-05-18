@@ -54,8 +54,6 @@ This project recreates a public health dashboard to analyse and visualise flu sh
 - **Spreadsheet Software**: For initial data analysis and manipulation.
 - **ODBC**: For database connectivity and integration with Tableau.
 
----
-
 
 
 
