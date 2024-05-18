@@ -35,7 +35,7 @@ This project showcases the creation of an Excel dashboard for analysing sales pe
 
 - **SQL**: For data extraction and preparation.
 - **Excel**: Utilised for creating pivot tables, dynamic dashboards, and data visualisation.
-- 
+
 ---
 
 ## [Mapping Health: Interactive Analysis of Flu Vaccination Trends](/project_page3)
@@ -53,7 +53,7 @@ This project recreates a public health dashboard to analyse and visualise flu sh
 - **PostgreSQL & pgAdmin**: For database management and administration.
 - **Spreadsheet Software**: For initial data analysis and manipulation.
 - **ODBC**: For database connectivity and integration with Tableau.
-- 
+
 ---
 
 
